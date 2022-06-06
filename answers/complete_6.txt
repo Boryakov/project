@@ -1,5 +1,6 @@
+Заголовок теста: ДІОДИ
 1 Вопрос: Схема кристалічної решітки та енергетична діаграма напівпровідника з електронною електропровідністю
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\6F3ZF0PL.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\6F3ZF0PL.jpg
 Приоритет: 1
 2 Вопрос: Домiшки, якi захоплюють електрони з валентної зони, називають
 Ответ: акцепторними
@@ -17,65 +18,65 @@
 Ответ: дірки
 Приоритет: 1
 7 Вопрос: До напівпровідникових матеріалів відносяться матеріали у яких ширина забороненої зони
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\XPRG2JIA.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\XPRG2JIA.jpg
 Ответ: середня
 Приоритет: 1
 8 Вопрос: Якщо перехiд утворюється мiж напiвпровiдниками n-типу i p-типу, то його називають
 Ответ: електронно-дiрковим
 Приоритет: 1
 9 Вопрос: Вольт-амперна характеристика діода
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\4SZ13AC2.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\4SZ13AC2.jpg
 Приоритет: 1
 10 Вопрос: Графічне позначення діода
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\RLFAFQFN.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\RLFAFQFN.jpg
 Приоритет: 1
 11 Вопрос: Графічне позначення стабілітрона
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\VWBDKB2W.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\VWBDKB2W.jpg
 Приоритет: 1
 12 Вопрос: Графічне позначення варикапа
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\5HMGTSD4.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\5HMGTSD4.jpg
 Приоритет: 1
 13 Вопрос: Наведена схема кристалічної решітки та енергетична діаграма напівпровідника з ...............
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\W4U8SQMM.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\W4U8SQMM.jpg
 Ответ: електронною електропровідністю
 Приоритет: 1
 14 Вопрос: Тунельний пробiй ...............
 Ответ: зумовлений прямим переходом електронiв з валентної зони в зону провiдностi
 Приоритет: 1
 15 Вопрос: Графічне позначення діода Шотки
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\K2TI11S3.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\K2TI11S3.jpg
 Приоритет: 1
 16 Вопрос: На рисунку зображена будова ......
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\XXPKWQC3.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\XXPKWQC3.jpg
 Ответ: Випромінюючого діоду
 Приоритет: 1
 17 Вопрос: Світлова характеристика світловипромінюючого діоду
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\GTW9UW68.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\GTW9UW68.jpg
 Приоритет: 1
 18 Вопрос: Світлова характеристика  інфрачервоного  випромінюючого діоду
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\5Q9PQLBX.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\5Q9PQLBX.jpg
 Приоритет: 1
 19 Вопрос: На рисунку наведена схема  .......
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\CUOPQ17U.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\CUOPQ17U.jpg
 Ответ: детектора
 Приоритет: 1
 20 Вопрос: На рисунку наведена ...........
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\ONGZVI3U.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\ONGZVI3U.jpg
 Ответ: однонапівперіодна схема випремлення однофазного струму
 Приоритет: 1
 21 Вопрос: Графічне позначення діодної оптопари (оптрона)
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\82VFY2I6.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\82VFY2I6.jpg
 Приоритет: 1
 22 Вопрос: На рисунку наведена ...........
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\95I9OQMJ.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\95I9OQMJ.jpg
 Ответ: мостова схема випремлення однофазного струму
 Приоритет: 1
 23 Вопрос: На рисунку наведена схема .....
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\LAC4C9X0.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\LAC4C9X0.jpg
 Ответ: стабілізатора напруги
 Приоритет: 1
 24 Вопрос: На рисунку зображен  .............
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\WMWOVY47.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\WMWOVY47.jpg
 Ответ: діод
 Приоритет: 1
 25 Вопрос: Змiшувальнi дiоди - ....
@@ -85,7 +86,7 @@
 Ответ: Генераторних діодів
 Приоритет: 1
 27 Вопрос: На рисунку зображена будова ............
-Директория вопроса: C:\Users\ltava\Desktop\project\диоды.txt.files\HUIXF6BB.jpg
+Директория вопроса: C:\Users\ltava\Desktop\shakalaka\6.txt.files\HUIXF6BB.jpg
 Ответ: фотодіода
 Приоритет: 1
 28 Вопрос: Дрейфовий струм - це
@@ -95,5 +96,5 @@
 Ответ: Генерація носіїв заряду
 Приоритет: 1
 30 Вопрос: Схема при якій збільшується ємностi р-n-переходу
-Директория ответа: C:\Users\ltava\Desktop\project\диоды.txt.files\FBXYL63M.jpg
+Директория ответа: C:\Users\ltava\Desktop\shakalaka\6.txt.files\FBXYL63M.jpg
 Приоритет: 1

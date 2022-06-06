@@ -1,15 +1,19 @@
 from input import lapota,cut
+import os
 
-
-names = ["диоды.txt","конструктивные особенности дискретных элементов.txt",
-"лр-5(те,схем).txt","розрахунки в схемах з кодненсаторами.txt","транзистор.txt"] 
+names = ["1.txt","2.txt","3.txt","4.txt","5.txt","6.txt"] 
 
 
 
 for name in names:
-    qa=lapota(name)    
+    qa,title=lapota(name)    
     dir='answers/complete_'+name
-    test=open(dir,'w',encoding='utf-8')
+    try:
+        test=open(dir,'w',encoding='utf-8')
+    except:
+        os.mkdir("answers")
+        test=open(dir,'w',encoding='utf-8')
+    test.write(title)
     for i in range(len(qa)):
         qa[i]=dict(qa[i])
         helpstr=str(i+1)+" "+str(qa[i]['question']['question'])+'\n'
