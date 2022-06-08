@@ -1,11 +1,11 @@
-from input import lapota, cut
+from helper import lapota, cut
 import os
 
 
-names = ["1.txt", "2.txt", "3.txt", "4.txt", "5.txt", "6.txt"]
+names = ["1.txt"]
 
 
-for name in names:
+def complete(name):
     qa, title = lapota(name)
     dir = 'answers/complete_'+name
     try:
