@@ -2,14 +2,16 @@
 from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
-import first
+import text_doc_creator
 
 import os
 
 
 file_name = input("Enter file name: ")
-file_name = file_name
-first.complete(file_name)
+
+textdoc = text_doc_creator.TestReader(file_name)
+textdoc.write()
+
 root = Tk()
 root.title("Quiz reader")
 
@@ -34,10 +36,6 @@ my_canvas.bind('<Configure>', lambda e: my_canvas.configure(
 second_frame = Frame(my_canvas)
 
 my_canvas.create_window((0, 0), window=second_frame, anchor='nw')
-
-
-def image_print():
-    pass
 
 
 currim = 0
