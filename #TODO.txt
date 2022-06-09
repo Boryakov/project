@@ -1,0 +1,4 @@
+1. Create virtual enviroment
+2. Create fme  - reader and import to class
+3. Maybe create new class for tkinter
+4. Create .exe from pyinstaller 
